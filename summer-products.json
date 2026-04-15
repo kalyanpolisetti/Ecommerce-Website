@@ -1,0 +1,297 @@
+[
+  {
+    "id": 316,
+    "name": "Olive Breeze Printed Summer Shirt",
+    "price": 1599,
+    "mainImage": "./images/resort summer shirt3.jpg",
+    "gallery": ["./images/resort summer shirt3.jpg","./images/resort summer shirt3.jpg",
+                "./images/resort summer shirt3.jpg","./images/resort summer shirt3.jpg"],
+    "description": "Breathable summer shirt with a sophisticated leaf motif.",
+    "details": {
+      "fabric": "Rayon Viscose",
+      "fit": "Regular Fit",
+      "collar": "Spread Collar",
+      "sleeve": "Half Sleeve",
+      "occasion": "Resort Wear"
+    },
+    "washCare": [
+      "Cold machine wash",
+      "Cool iron"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Men Sunblush flower Print Tropical Summer Shirt",
+    "price": 1599,
+    "mainImage": "./images/resort summer shirt1.jpg",
+    "gallery": ["./images/resort summer shirt1.jpg","./images/resort summer shirt1.jpg",
+                "./images/resort summer shirt1.jpg","./images/resort summer shirt1.jpg"],
+    "description": "Vibrant floral print shirt for high-summer vibes.",
+    "details": {
+      "fabric": "Viscose",
+      "fit": "Relaxed Fit",
+      "collar": "Cuban Collar",
+      "sleeve": "Half Sleeve",
+      "occasion": "Beach Wear"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Drip dry"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Lime Wave Digital Summer Shirt",
+    "price": 1299,
+    "mainImage": "./images/resort summer shirt4.webp",
+    "gallery": ["./images/resort summer shirt4.webp","./images/resort summer shirt4.webp",
+                 "./images/resort summer shirt4.webp","./images/resort summer shirt4.webp"],
+    "description": "Abstract wave patterns printed on premium lightweight fabric.",
+    "details": {
+      "fabric": "Lightweight Cotton",
+      "fit": "Modern Fit",
+      "collar": "Pointed Collar",
+      "sleeve": "Half Sleeve",
+      "occasion": "Party Wear"
+    },
+    "washCare": [
+      "Gentle cycle",
+      "Cool iron"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Coral Bloom Oversized Summer Shirt",
+    "price": 1199,
+    "mainImage": "./images/resort summer shirt2.avif",
+    "gallery": ["./images/resort summer shirt2.avif","./images/resort summer shirt2.avif",
+                "./images/resort summer shirt2.avif","./images/resort summer shirt2.avif"],
+    "description": "Soft floral oversized shirt for an effortless seasonal look.",
+    "details": {
+      "fabric": "Rayon",
+      "fit": "Oversized Fit",
+      "collar": "Camp Collar",
+      "sleeve": "Half Sleeve",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Hand wash",
+      "Dry flat in shade"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Costal Check LightWeight Shirt",
+    "price": 1099,
+    "mainImage": "./images/cotton shirt1.jpg",
+    "gallery": ["./images/cotton shirt1.jpg","./images/cotton shirt1.jpg",
+                "./images/cotton shirt1.jpg","./images/cotton shirt1.jpg"],
+    "description": "Classic coastal checkered shirt for a timeless aesthetic.",
+    "details": {
+      "fabric": "Cotton",
+      "fit": "Regular Fit",
+      "collar": "Button-Down",
+      "sleeve": "Full Sleeve",
+      "occasion": "Daily Casual"
+    },
+    "washCare": [
+      "Machine wash warm",
+      "Tumble dry low"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Olive Embroidered Casual Shirt",
+    "price": 1299,
+    "mainImage": "./images/cotton shirt2.webp",
+    "gallery": ["./images/cotton shirt2.webp","./images/cotton shirt2.webp",
+                 "./images/cotton shirt2.webp","./images/cotton shirt2.webp"],
+    "description": "Solid olive shirt featuring tonal floral embroidery on the chest.",
+    "details": {
+      "fabric": "Cotton Sateen",
+      "fit": "Regular Fit",
+      "collar": "Mandarin Collar",
+      "sleeve": "Full Sleeve",
+      "occasion": "Evening Wear"
+    },
+    "washCare": [
+      "Gentle wash",
+      "Cool iron"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Washed Charcoal Oversized T-shirt",
+    "price": 1999,
+    "mainImage": "./images/relaxed fit t shirt.jpg",
+    "gallery": ["./images/relaxed fit t shirt.jpg","./images/relaxed fit t shirt.jpg",
+                "./images/relaxed fit t shirt.jpg","./images/relaxed fit t shirt.jpg"],
+    "description": "Heavyweight drop-shoulder tee with a vintage acid wash finish.",
+    "details": {
+      "fabric": "Heavy Cotton",
+      "fit": "Oversized Fit",
+      "neck": "Ribbed Crew",
+      "sleeve": "Half Sleeve",
+      "occasion": "Streetwear"
+    },
+    "washCare": [
+      "Cold wash inside out",
+      "Do not tumble dry"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Ivory Sleeveless Relaxed Sweat T-Shirt",
+    "price": 1299,
+    "mainImage": "./images/tank tshirt1.jpg",
+    "gallery": ["./images/tank tshirt1.jpg","./images/tank tshirt1.jpg",
+                "./images/tank tshirt1.jpg","./images/tank tshirt1.jpg"],
+    "description": "Sleeveless sweatshirt-style tee with raw edge armholes.",
+    "details": {
+      "fabric": "French Terry",
+      "fit": "Relaxed Fit",
+      "neck": "Crew Neck",
+      "sleeve": "Sleeveless",
+      "occasion": "Casual Sport"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Dry flat"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Peach Relaxed Fit Premium T-shirt",
+    "price": 1399,
+    "mainImage": "./images/rel-cotton tshirt.avif",
+    "gallery": ["./images/rel-cotton tshirt.avif","./images/rel-cotton tshirt.avif",
+                "./images/rel-cotton tshirt.avif","./images/rel-cotton tshirt.avif"],
+    "description": "Ultra-soft premium cotton t-shirt in a seasonal peach hue.",
+    "details": {
+      "fabric": "Premium Cotton",
+      "fit": "Relaxed Fit",
+      "neck": "Crew Neck",
+      "sleeve": "Short Sleeve",
+      "occasion": "Daily Casual"
+    },
+    "washCare": [
+      "Machine wash at 30°C",
+      "Iron on low"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Black Signature Washed T-Shirt",
+    "price": 1599,
+    "mainImage": "./images/men-acid-wash-t-shirt4.jpg",
+    "gallery": ["./images/men-acid-wash-t-shirt4.jpg","./images/men-acid-wash-t-shirt4.jpg",
+                "./images/men-acid-wash-t-shirt4.jpg","./images/men-acid-wash-t-shirt4.jpg"],
+    "description": "The quintessential black tee with a vintage charcoal wash.",
+    "details": {
+      "fabric": "Combed Cotton",
+      "fit": "Regular Fit",
+      "neck": "Ribbed Crew",
+      "sleeve": "Short Sleeve",
+      "occasion": "Essential"
+    },
+    "washCare": [
+      "Wash inside out",
+      "Cool iron"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Men Blue Camo Relaxed Fit Short",
+    "price": 1799,
+    "mainImage": "./images/short2.jpg_2000Wx3000H",
+    "gallery": ["./images/short2.jpg_2000Wx3000H","./images/short2.jpg_2000Wx3000H",
+                "./images/short2.jpg_2000Wx3000H","./images/short2.jpg_2000Wx3000H"],
+    "description": "Rugged camo print cargo shorts with multiple utility pockets.",
+    "details": {
+      "fabric": "Cotton Canvas",
+      "fit": "Relaxed Fit",
+      "length": "Above Knee",
+      "occasion": "Outdoor"
+    },
+    "washCare": [
+      "Wash with like colors",
+      "Machine wash cold"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Men Washed Grey Relaxed Slim Fit T-shirt",
+    "price": 1399,
+    "mainImage": "./images/oversized acid wash sweat shirt.avif",
+    "gallery": ["./images/oversized acid wash sweat shirt.avif","./images/oversized acid wash sweat shirt.avif",
+                "./images/oversized acid wash sweat shirt.avif","./images/oversized acid wash sweat shirt.avif"],
+    "description": "Vintage washed charcoal tee with a premium heavy-hand feel.",
+    "details": {
+      "fabric": "Sueded Cotton",
+      "fit": "Relaxed Slim",
+      "neck": "Crew Neck",
+      "sleeve": "Half Sleeve",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Iron inside out"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Men White Ribbed Slim Fit Tank Vest",
+    "price": 1599,
+    "mainImage": "./images/white vest.avif",
+    "gallery": ["./images/white vest.avif","./images/white vest.avif","./images/white vest.avif","./images/white vest.avif"],
+    "description": "Essential ribbed tank top designed for a body-hugging fit.",
+    "details": {
+      "fabric": "Ribbed Cotton",
+      "fit": "Slim Fit",
+      "neck": "Scoop Neck",
+      "sleeve": "Sleeveless",
+      "occasion": "Gym/Base Layer"
+    },
+    "washCare": [
+      "Warm machine wash",
+      "Do not wring"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Men Cream Regular Fit Sweat Shorts-2Pack",
+    "price": 2199,
+    "mainImage": "./images/sweat shorts.avif",
+    "gallery": ["./images/sweat shorts.avif","./images/sweat shorts.avif",
+                "./images/sweat shorts.avif","./images/sweat shorts.avif"],
+    "description": "Double pack of premium sweat shorts with adjustable drawstring waist.",
+    "details": {
+      "fabric": "Jersey Cotton",
+      "fit": "Regular Fit",
+      "pockets": "Side Seam",
+      "occasion": "Loungewear"
+    },
+    "washCare": [
+      "Machine wash at 40°C",
+      "Tumble dry medium"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Men Beige Relaxed Fit Casual Shorts",
+    "price": 1699,
+    "mainImage": "./images/short4.jpg",
+    "gallery": ["./images/short4.jpg","./images/short4.jpg","./images/short4.jpg","./images/short4.jpg"],
+    "description": "Clean-cut shorts in a versatile beige for an elevated casual look.",
+    "details": {
+      "fabric": "Cotton Twill",
+      "fit": "Relaxed Fit",
+      "rise": "Mid Rise",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Wash with similar colors",
+      "Cool iron"
+    ]
+  }
+]

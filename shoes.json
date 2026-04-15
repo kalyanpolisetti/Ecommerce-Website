@@ -1,0 +1,428 @@
+[
+  {
+    "id": 201,
+    "name": "Chunky Black Chelsea",
+    "price": "4999",
+     "mainImage": "./shoes-images/shoepair-1.jpeg",
+    "description": "A pair of black Chelsea boots, has mid-top ankle and zip fastening and back detail.",
+     "gallery": ["./shoes-images/shoepair1.jpeg", "./shoes-images/shoepair1-1.jpeg", 
+                 "./shoes-images/shoepair1.jpeg","./shoes-images/shoepair-1.jpeg"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned",
+      "outsole": "Textured and patterned TPR",
+      "heel": "Block-heeled",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Leather",
+      "pattern": "Solid",
+      "fit": "Standard",
+      "closure": "Elastic"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Use leather cream"]
+  },
+  {
+    "id": 202,
+    "name": "Classic Brown Chukka",
+    "price": "3499",
+    "mainImage": "./shoes-images/brown chelsea1.png",
+    "description": "Timeless silhouette with contrast stitching and high-grip rubber sole.",
+    "gallery": ["./shoes-images/brown chelsea2.png", "./shoes-images/brown chelsea3.png", 
+                 "./shoes-images/brown chelsea4.jpg","./shoes-images/brown chelsea1.png"],
+    "details": {
+      "upperMaterial": "Leather",
+      "footbed": "Soft Padded",
+      "outsole": "TPR",
+      "heel": "Flat",
+      "heelHeight": "1.5 cm",
+      "material": "Polished Leather",
+      "pattern": "Solid",
+      "fit": "Regular",
+      "closure": "Laces"
+    },
+    "washCare": ["Brush off dirt", "Wipe with clean dry cloth"]
+  },
+  {
+    "id": 203,
+    "name": "Dark Mocha Utility Boot",
+    "price": "5299",
+    "mainImage": "./shoes-images/Dark utility mocha boots1.png",
+    "description": "Rugged build featuring metallic eyelets and a side zipper for convenience.",
+    "gallery": ["./shoes-images/Dark utility mocha boots2.png", "./shoes-images/Dark utility mocha boots3.jpg",
+                "./shoes-images/Dark utility mocha boots1.png","./shoes-images/Dark utility mocha boots2.png"],
+    "details": {
+      "upperMaterial": "Synthetic Leather",
+      "footbed": "Cushioned",
+      "outsole": "Patterned TPR Outsole",
+      "heel": "Blocked",
+      "heelHeight": "3.0 cm",
+      "material": "Grain Leather",
+      "pattern": "Textured",
+      "fit": "Comfort",
+      "closure": "Lace & Zip"
+    },
+    "washCare": ["Clean with soft brush", "Wipe with clean dry cloth"]
+  },
+  {
+    "id": 204,
+    "name": "Chocolate Suede Hiker",
+    "price": "4599",
+    "mainImage": "./shoes-images/choclate hiker1.png",
+    "description": "Premium matte suede with a padded collar for all-day outdoor comfort.",
+    "gallery": ["./shoes-images/choclate hiker2.png", "./shoes-images/choclate hiker1.png",
+                "./shoes-images/choclate hiker2.png","./shoes-images/choclate hiker1.png"],
+    "details": {
+      "upperMaterial": "Suede Leather",
+      "footbed": "High-Density Foam",
+      "outsole": "Lug TPR Outsole",
+      "heel": "Block",
+      "heelHeight": "2.8 cm",
+      "material": "Suede",
+      "pattern": "Matte",
+      "fit": "Snug",
+      "closure": "Speed Laces"
+    },
+    "washCare": ["Use suede protector", "Dry brush only"]
+  },
+  {
+    "id": 205,
+    "name": "Oxblood Buckle Dress Boot",
+    "price": "6500",
+    "mainImage": "./shoes-images/oxblood boot2.jpg",
+    "description": "Sophisticated formal boot with a hand-burnished finish and side buckle detail.",
+    "gallery": ["./shoes-images/oxblood boot1.png", "./shoes-images/oxblood boot3.jpg",
+                "./shoes-images/oxblood boot2.jpg","./shoes-images/oxblood boot1.png"],
+    "details": {
+      "upperMaterial": "Top-Grain Calfskin",
+      "footbed": "Leather Cushioned",
+      "outsole": "Polished TPR",
+      "heel": "Formal Block",
+      "heelHeight": "2.5 cm",
+      "material": "Calfskin",
+      "pattern": "Burnished",
+      "fit": "Slim",
+      "closure": "Buckle & Zip"
+    },
+    "washCare": ["Professional shine", "Wipe with clean dry cloth"]
+  },
+  {
+    
+    "id": 206,
+    "name": "Oxblood Frontal Dress Boot",
+    "price": "5800",
+    "mainImage": "./shoes-images/oxblood frontal boot1.png",
+    "description": "A pair of formal dress boots, has mid-top ankle and burnished toe detail",
+    "gallery": ["./shoes-images/oxblood frontal boot2.png", "./shoes-images/oxblood frontal boot3.jpg","./shoes-images/oxblood frontal boot1.png",
+                 "./shoes-images/oxblood frontal boot2.png"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Patterned TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Top-Grain PU",
+      "pattern": "Burnished",
+      "fit": "Slim Fit",
+      "closure": "Side Zip"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Polish with wax"]
+  },
+  {
+    "id": 207,
+    "name": "Heritage Tan Chukka Side",
+    "price": "3600",
+    "mainImage": "./shoes-images/heritage chukka boot1.png",
+    "description": "A pair of heritage tan boots, has mid-top ankle and contrast sole detail",
+    "gallery": ["./shoes-images/heritage chukka boot2.jpg", "./shoes-images/heritage chukka boot1.png",
+                "./shoes-images/heritage chukka boot3.png","./shoes-images/heritage chukka boot1.png"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured TPR outsole",
+      "heelHeight": "2.0 cm (0.8 Inch)",
+      "material": "Smooth PU",
+      "pattern": "Solid",
+      "fit": "Regular",
+      "closure": "Laces"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Cream polish"]
+  },
+  {
+    "id": 208,
+    "name": "Midnight Stealth Combat",
+    "price": "5100",
+    "mainImage": "./shoes-images/midnight combat2.jpg",
+    "description": "A pair of black combat boots, has high-top ankle and buckle-fastening",
+    "gallery": ["./shoes-images/midnight combat2.jpg", "./shoes-images/midnight combat1.png",
+                "shoes-images/midnight combat3.jpg","./shoes-images/midnight combat1.png"],
+    "details": {
+      "upperMaterial": "PU Matte",
+      "footbed": "Cushioned footbed",
+      "outsole": "Deep textured TPR lug outsole",
+      "heelHeight": "3.5 cm (1.4 Inch)",
+      "material": "Matte PU",
+      "pattern": "Grit Texture",
+      "fit": "Comfort",
+      "closure": "Buckle & Zip"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Air dry naturally"]
+  },
+  {
+    "id": 209,
+    "name": "Suede Terrain Hiker Pair",
+    "price": "4400",
+    "mainImage": "shoes-images/terrain hiker1.png",
+    "description": "A pair of suede hiker boots, has dual-tone ankle and contrast stitching",
+    "gallery": ["shoes-images/terrain hiker2.png", "shoes-images/terrain hiker1.png",
+                "shoes-images/terrain hiker3.png","shoes-images/terrain hiker2.png"],
+    "details": {
+      "upperMaterial": "Synthetic Suede",
+      "footbed": "Cushioned footbed",
+      "outsole": "Patterned TPR rugged outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Premium Synthetic Suede",
+      "pattern": "Matte",
+      "fit": "Snug",
+      "closure": "Speed Hooks"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Suede brush only"]
+  },
+  {
+    "id": 210,
+    "name": "Suede Terrain Hiker Front",
+    "price": "4400",
+    "mainImage": "shoes-images/terrain hiker front1.png",
+    "description": "A pair of suede front hiker boots, has mid-top ankle and symmetrical lacing",
+    "gallery": ["shoes-images/terrain hiker front2.png", "shoes-images/terrain hiker front1.png",
+                "shoes-images/terrain hiker front3.webp","shoes-images/terrain hiker front1.png"],
+    "details": {
+      "upperMaterial": "Synthetic Suede",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Premium Synthetic Suede",
+      "pattern": "Matte",
+      "fit": "Snug",
+      "closure": "Lace-up"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Use suede eraser"]
+  },
+  {
+    "id": 211,
+    "name": "Glossy Onyx Chelsea",
+    "price": "4999",
+    "mainImage": "shoes-images/glossy oynx chelsea1.png",
+    "description": "A pair of glossy black Chelsea boots, has mid-top ankle and high-shine finish",
+    "gallery": ["shoes-images/glossy oynx chelsea2.png", "shoes-images/glossy oynx chelsea3.png",
+                 "shoes-images/glossy oynx chelsea1.png","shoes-images/glossy oynx chelsea2.png"],
+    "details": {
+      "upperMaterial": "PU Patent",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured and patterned TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Patent PU",
+      "pattern": "High-Gloss",
+      "fit": "Standard",
+      "closure": "Elastic"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Wipe with microfiber cloth"]
+  },
+  {
+    "id": 212,
+    "name": "Combat Stealth Side",
+    "price": "5299",
+    "mainImage": "shoes-images/combat laceup boots1.png",
+    "description": "A pair of black combat boots, has side-top ankle and wraparound lacing",
+    "gallery": ["shoes-images/combat laceup boots2.png", "shoes-images/combat laceup boots3.png",
+                "shoes-images/combat laceup boots1.png","shoes-images/combat laceup boots4.jpg"],
+    "details": {
+      "upperMaterial": "PU Grained",
+      "footbed": "Cushioned footbed",
+      "outsole": "Patterned TPR rugged outsole",
+      "heelHeight": "2.8 cm (1.1 Inch)",
+      "material": "Grained Synthetic",
+      "pattern": "Solid",
+      "fit": "Regular",
+      "closure": "Lace-up"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Soft brush cleaning"]
+  },
+  {
+    "id": 213,
+    "name": "Combat Stealth Pair",
+    "price": "5299",
+    "mainImage": "shoes-images/combat laceup boots3.png",
+    "description": "A pair of black combat boots, has mid-top ankle and utility design",
+    "gallery": ["shoes-images/combat laceup boots3.png", "shoes-images/combat laceup boots1.png",
+                 "shoes-images/combat laceup boots3.png","shoes-images/combat laceup boots3.png"],
+    "details": {
+      "upperMaterial": "PU Grained",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured TPR lug outsole",
+      "heelHeight": "2.8 cm (1.1 Inch)",
+      "material": "Grained Synthetic",
+      "pattern": "Solid",
+      "fit": "Regular",
+      "closure": "Lace-up"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Air dry naturally"]
+  },
+  {
+    "id": 214,
+    "name": "Executive Cap-Toe Boot",
+    "price": "4799",
+    "mainImage": "shoes-images/cape toe boot1.jpeg",
+    "description": "A pair of black executive boots, has mid-top ankle and cap-toe lacing",
+    "gallery": ["shoes-images/cape toe boot2.jpeg", "shoes-images/cape toe boot3.jpg",
+                "shoes-images/cape toe boot1.jpeg","shoes-images/cape toe boot4.jpeg"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Smooth and patterned TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Smooth PU",
+      "pattern": "Cap-Toe",
+      "fit": "Slim Fit",
+      "closure": "Lace-up"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Use black shoe polish"]
+  },
+  {
+    "id": 215,
+    "name": "Heritage Cap-Toe Boot",
+    "price": "4899",
+    "mainImage": "shoes-images/jones-Brown-Leather-Lace-Up-Boot1.jpeg",
+    "description": "A pair of tan heritage boots, has mid-top ankle and side-zip detail",
+    "gallery": ["shoes-images/jones-Brown-Leather-Lace-Up-Boot2.png", "shoes-images/jones-Brown-Leather-Lace-Up-Boot3.jpg",
+                 "shoes-images/jones-Brown-Leather-Lace-Up-Boot1.jpeg","shoes-images/jones-Brown-Leather-Lace-Up-Boot2.png"],
+    "details": {
+      "upperMaterial": "PU Grained",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Grained PU",
+      "pattern": "Solid",
+      "fit": "Regular",
+      "closure": "Lace & Zip"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Use neutral leather cream"]
+  },
+  {
+    "id": 216,
+    "name": "Midnight Urban Combat",
+    "price": "5200",
+    "mainImage": "./shoes-images/oxblood frontal boot2.png",
+    "description": "A pair of urban combat boots, has mid-top ankle and padded material collar",
+    "gallery": ["./shoes-images/oxblood frontal boot1.png", "./shoes-images/oxblood frontal boot3.jpg",
+                 "./shoes-images/oxblood frontal boot2.png","./shoes-images/oxblood frontal boot3.jpg"],
+    "details": {
+      "upperMaterial": "PU Matte",
+      "footbed": "Cushioned footbed",
+      "outsole": "Patterned TPR lug outsole",
+      "heelHeight": "3.0 cm (1.2 Inch)",
+      "material": "Synthetic Matte",
+      "pattern": "Solid Black",
+      "fit": "Comfort",
+      "closure": "Lace-up & Buckle"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Soft brush cleaning"]
+  },
+  {
+    "id": 217,
+    "name": "Classic Tan Chelsea",
+    "price": "4499",
+    "mainImage": "shoes-images/classic tan chelse boot1.webp",
+    "description": "A pair of tan Chelsea boots, has mid-top ankle and tonal elastic detail",
+    "gallery": ["shoes-images/classic tan chelse boot2.jpg", "shoes-images/classic tan chelse boot3.jpg",
+                "shoes-images/classic tan chelse boot4.jpeg","shoes-images/classic tan chelse boot1.webp"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Smooth PU",
+      "pattern": "Solid",
+      "fit": "Standard",
+      "closure": "Pull-on"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Use tan shoe cream"]
+  },
+  {
+    "id":218,
+    "name": "Espresso Sleek Chelsea",
+    "price": "4699",
+    "mainImage": "shoes-images/espresso sleek chelsea 1.jpeg",
+    "description": "A pair of espresso Chelsea boots, has mid-top ankle and slim-sole detail",
+    "gallery": ["shoes-images/espresso sleek chelsea 2.jpg", "shoes-images/espresso sleek chelsea 3.jpg",
+                "shoes-images/espresso sleek chelsea 2.jpg","shoes-images/espresso sleek chelsea 1.jpeg"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Patterned TPR outsole",
+      "heelHeight": "2.2 cm (0.9 Inch)",
+      "material": "Top-Grain PU",
+      "pattern": "Solid",
+      "fit": "Slim",
+      "closure": "Elastic Gusset"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Clean with leather balm"]
+  },
+  {
+    "id": 219,
+    "name": "Jet Black Formal Chelsea",
+    "price": "4799",
+    "mainImage": "shoes-images/jet black formal chelsea1.jpeg",
+    "description": "A pair of formal Chelsea boots, has mid-top ankle and textured side panels",
+    "gallery": ["shoes-images/jet black formal chelsea2.jpg", "shoes-images/jet black formal chelsea3.jpg",
+                 "shoes-images/jet black formal chelsea2.jpg","shoes-images/jet black formal chelsea1.jpeg"],
+    "details": {
+      "upperMaterial": "PU Patent",
+      "footbed": "Cushioned footbed",
+      "outsole": "Smooth TPR outsole",
+      "heelHeight": "2.54 cm (1 Inch)",
+      "material": "Patent Finish PU",
+      "pattern": "High Shine",
+      "fit": "Standard",
+      "closure": "Elastic"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Buff with soft cloth"]
+  },
+  {
+    "id": 220,
+    "name": "Mocca Desert Chukka",
+    "price": "3899",
+    "mainImage": "shoes-images/mocca desert chukka boot1.jpeg",
+    "description": "A pair of mocca desert boots, has mid-top ankle and 3-eyelet lacing",
+    "gallery": ["shoes-images/mocca desert chukka boot2.jpeg", "shoes-images/mocca desert chukka boot3.jpeg",
+                "shoes-images/mocca desert chukka boot4.jpeg","shoes-images/mocca desert chukka boot1.jpeg"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Patterned TPR outsole",
+      "heelHeight": "2.0 cm (0.8 Inch)",
+      "material": "Nappa PU",
+      "pattern": "Solid",
+      "fit": "Regular",
+      "closure": "Laces"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Use leather conditioner"]
+  },
+  {
+    "id": 221,
+    "name": "Crimson Burnished Chukka",
+    "price": "5500",
+    "mainImage": "shoes-images/burnished chukka boot1.jpg",
+    "description": "A pair of crimson chukka boots, has mid-top ankle and gradient burnish finish",
+    "gallery": ["shoes-images/burnished chukka boot2.png", "shoes-images/burnished chukka boot3.png",
+                "shoes-images/burnished chukka boot2.png","shoes-images/burnished chukka boot1.jpg"],
+    "details": {
+      "upperMaterial": "PU Solid",
+      "footbed": "Cushioned footbed",
+      "outsole": "Textured TPR outsole",
+      "heelHeight": "2.0 cm (0.8 Inch)",
+      "material": "Burnished PU",
+      "pattern": "Ombre",
+      "fit": "Regular",
+      "closure": "Laces"
+    },
+    "washCare": ["Wipe with clean dry cloth", "Professional polish only"]
+  }
+]

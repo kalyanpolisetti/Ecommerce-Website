@@ -1,0 +1,318 @@
+[
+  {
+    "id": 301,
+    "name": "Men's White Checked Knitted Shirt",
+    "price": 2199,
+    "mainImage": "./images/f-pro-1.webp",
+    "gallery": [
+      "./images/f-pro-1.webp",
+      "./images/f-pro-1.webp",
+      "./images/f-pro-1.webp",
+      "./images/f-pro-1.webp"
+      
+    ],
+    "description": "A premium knitted shirt featuring a sophisticated windowpane check pattern.",
+    "details": {
+      "fabric": "Knitted Cotton",
+      "fit": "Regular Fit",
+      "collar": "Button-Down",
+      "sleeve": "Full Sleeve",
+      "occasion": "Semi-Formal"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Warm iron"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "100% Pure Linen Shirt - ELVIOR",
+    "price": 1899,
+    "mainImage": "./images/linen shirt.1.webp",
+    "gallery": [
+       "./images/linen shirt.1.webp",
+       "./images/linen shirt.1.webp",
+       "./images/linen shirt.1.webp",
+       "./images/linen shirt.1.webp"
+    ],
+    "description": "Authentic 100% pure linen for maximum breathability and luxury comfort.",
+    "details": {
+      "fabric": "Pure Linen",
+      "fit": "Relaxed Fit",
+      "collar": "Spread Collar",
+      "sleeve": "Full Sleeve",
+      "occasion": "Casual Luxury"
+    },
+    "washCare": [
+      "Hand wash only",
+      "Dry in shade",
+      "Do not wring"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Stylish Regular Digital Printed Shirt",
+    "price": 1299,
+    "mainImage": "./images/printed.shirt.jpg",
+    "gallery": ["./images/printed.shirt.jpg",
+                  "./images/printed.shirt.jpg",
+                "./images/printed.shirt.jpg",
+                "./images/printed.shirt.jpg"],
+    "description": "High-definition digital print on soft-touch viscose fabric.",
+    "details": {
+      "fabric": "Viscose",
+      "fit": "Modern Fit",
+      "collar": "Slim Collar",
+      "sleeve": "Full Sleeve",
+      "occasion": "Party Wear"
+    },
+    "washCare": [
+      "Gentle machine wash",
+      "Iron on reverse",
+      "Do not soak"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Men Solid Beige Hooded Sweatshirt",
+    "price": 1499,
+    "mainImage": "./images/hoodie.beige.jpg",
+    "gallery": ["./images/hoodie.beige.jpg","./images/hoodie.beige.jpg","./images/hoodie.beige.jpg","./images/hoodie.beige.jpg"],
+    "description": "Heavyweight fleece hoodie designed for warmth and style.",
+    "details": {
+      "fabric": "Fleece Cotton",
+      "fit": "Oversized",
+      "hood": "Adjustable Drawstring",
+      "pockets": "Kangaroo Pocket",
+      "occasion": "Winter Casual"
+    },
+    "washCare": [
+      "Machine wash at 30°C",
+      "Do not tumble dry",
+      "Reshape while damp"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Elvior House - Signature Name Premium Sweatshirt",
+    "price": 1199,
+    "mainImage": "./images/elvior white sweat shirt.png",
+    "gallery": ["./images/elvior white sweat shirt.png","./images/elvior white sweat shirt.png",
+                 "./images/elvior white sweat shirt.png","./images/elvior white sweat shirt.png"],
+    "description": "Signature branded sweatshirt made from premium French Terry.",
+    "details": {
+      "fabric": "French Terry Cotton",
+      "fit": "Regular Fit",
+      "neck": "Crew Neck",
+      "sleeve": "Full Sleeve",
+      "occasion": "Streetwear"
+    },
+    "washCare": [
+      "Machine wash inside out",
+      "Cool iron",
+      "Do not bleach"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Elvior House - Signature Logo Premium Sweatshirt",
+    "price": 2199,
+    "mainImage": "./images/EH logo.png",
+    "gallery": ["./images/EH logo.png","./images/EH logo.png","./images/EH logo.png","./images/EH logo.png"],
+    "description": "Premium baby blue sweatshirt featuring the iconic EH monogram.",
+    "details": {
+      "fabric": "Heavyweight Cotton",
+      "fit": "Relaxed Fit",
+      "neck": "Hooded",
+      "sleeve": "Full Sleeve",
+      "occasion": "Streetwear"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not tumble dry",
+      "Iron on reverse"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Men RIPPED RELAXED FIT JEANS",
+    "price": 3199,
+    "mainImage": "./images/ripped jeans.jpg",
+    "gallery": ["./images/ripped jeans.jpg","./images/ripped jeans.jpg",
+                "./images/ripped jeans.jpg","./images/ripped jeans.jpg"],
+    "description": "Hand-distressed denim featuring authentic rips and a modern silhouette.",
+    "details": {
+      "fabric": "Heavyweight Denim",
+      "fit": "Relaxed Fit",
+      "rise": "Mid Rise",
+      "closure": "Button & Zip",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Wash inside out",
+      "Cold water wash",
+      "Dry in shade"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Men denim baggy jeans",
+    "price": 2999,
+    "mainImage": "./images/heavy baggy jeans.jpg",
+    "gallery": ["./images/heavy baggy jeans.jpg","./images/heavy baggy jeans.jpg",
+                "./images/heavy baggy jeans.jpg","./images/heavy baggy jeans.jpg"],
+    "description": "Vintage inspired baggy fit jeans for a relaxed 90s look.",
+    "details": {
+      "fabric": "Pure Cotton Denim",
+      "fit": "Baggy Fit",
+      "rise": "High Rise",
+      "closure": "Zip Fly",
+      "occasion": "Streetwear"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Tumble dry medium"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "ELVIOR - Straight fit jeans-Grey",
+    "price": 2599,
+    "mainImage": "./images/straight fit jeans2.jpg",
+    "gallery": ["./images/straight fit jeans2.jpg","./images/straight fit jeans2.jpg",
+                "./images/straight fit jeans2.jpg","./images/straight fit jeans2.jpg"],
+    "description": "Clean straight-cut jeans in a versatile charcoal grey wash.",
+    "details": {
+      "fabric": "Stretch Denim",
+      "fit": "Straight Fit",
+      "rise": "Mid Rise",
+      "closure": "Zip",
+      "occasion": "Daily Wear"
+    },
+    "washCare": [
+      "Wash inside out",
+      "Iron on medium",
+      "Dry in shade"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "MEN Khaki Chino",
+    "price": 1599,
+    "mainImage": "./images/chinos.jpg",
+    "gallery": ["./images/chinos.jpg","./images/chinos.jpg","./images/chinos.jpg","./images/chinos.jpg"],
+    "description": "Essential slim-fit chinos crafted from high-density cotton twill.",
+    "details": {
+      "fabric": "Cotton Twill",
+      "fit": "Slim Fit",
+      "rise": "Mid Rise",
+      "closure": "Button",
+      "occasion": "Semi-Formal"
+    },
+    "washCare": [
+      "Machine wash warm",
+      "Do not bleach"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Men Relaxed Fit Washed Denim Jeans",
+    "price": 1999,
+    "mainImage": "./images/baggy.jeans.jpg",
+    "gallery": ["./images/baggy.jeans.jpg","./images/baggy.jeans.jpg","./images/baggy.jeans.jpg","./images/baggy.jeans.jpg"],
+    "description": "Classic light-wash denim with a comfortable everyday fit.",
+    "details": {
+      "fabric": "Washed Denim",
+      "fit": "Relaxed Fit",
+      "rise": "Mid Rise",
+      "closure": "Zip",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Wash inside out",
+      "Do not wring"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Men's Signature Striped Relaxed Shirt",
+    "price": 1799,
+    "mainImage": "./images/stripe.shirt.avif",
+    "gallery": [ "./images/stripe.shirt.avif", "./images/stripe.shirt.avif", "./images/stripe.shirt.avif",
+                 "./images/stripe.shirt.avif"],
+    "description": "Modern vertical striped shirt with a dropped-shoulder design.",
+    "details": {
+      "fabric": "Cotton Blend",
+      "fit": "Relaxed Fit",
+      "collar": "Cuban Collar",
+      "sleeve": "Half Sleeve",
+      "occasion": "Summer Casual"
+    },
+    "washCare": [
+      "Gentle machine wash",
+      "Do not soak"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "MEN-Loose Fit Sweatshirt-Dark Brown",
+    "price": 1599,
+    "mainImage": "./images/sweatshirt.avif",
+    "gallery": ["./images/sweatshirt.avif","./images/sweatshirt.avif","./images/sweatshirt.avif",
+                 "./images/sweatshirt.avif"],
+    "description": "Minimalist oversized sweatshirt in a deep earthy brown tone.",
+    "details": {
+      "fabric": "Brushed Cotton",
+      "fit": "Loose Fit",
+      "neck": "Crew Neck",
+      "sleeve": "Full Sleeve",
+      "occasion": "Loungewear"
+    },
+    "washCare": [
+      "Cool wash",
+      "Iron on reverse"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Men Relaxed fit linen blend Trouser",
+    "price": 1699,
+    "mainImage": "./images/linen tai-trou.avif",
+    "gallery": ["./images/linen tai-trou.avif","./images/linen tai-trou.avif",
+                 "./images/linen tai-trou.avif","./images/linen tai-trou.avif"],
+    "description": "Ultra-breathable trousers with an elasticated drawstring waist.",
+    "details": {
+      "fabric": "Linen-Cotton Blend",
+      "fit": "Relaxed Fit",
+      "rise": "Mid Rise",
+      "closure": "Drawstring",
+      "occasion": "Vacation Wear"
+    },
+    "washCare": [
+      "Hand wash preferred",
+      "Dry flat"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "ELVIOR-Men Regular Fit-Linen Blend Trousers",
+    "price": 1799,
+    "mainImage": "./images/linen blend trousers.jpg",
+    "gallery": ["./images/linen blend trousers.jpg","./images/linen blend trousers.jpg",
+                "./images/linen blend trousers.jpg","./images/linen blend trousers.jpg"],
+    "description": "Tailored linen trousers that transition from office to evening.",
+    "details": {
+      "fabric": "Premium Linen Blend",
+      "fit": "Regular Fit",
+      "rise": "Mid Rise",
+      "closure": "Button & Zip",
+      "occasion": "Formal/Casual"
+    },
+    "washCare": [
+      "Dry clean recommended",
+      "Dry in shade"
+    ]
+  }
+]
+  

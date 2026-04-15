@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELVIOR HOUSE</title>
+    <link rel="stylesheet" href="./style2.1.css">
+    <link rel="stylesheet" href="./@mediaQuery.css">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    
+ </head>
+<body>
+<section id="header">
+        <a href="#"><img src="./images/E.svg"  class="logo" width="130px " height="130px"></a>
+      <div>
+        <ul id="navbar">
+             <li><a  href="home-page.html">Home</a></li>
+             <li><a  href="shop-page.html">Shop</a></li>
+             <li><a  href="about.html">About</a></li>
+             <li><a  href="contact.html">contact</a></li>
+             <li><a  class="active" href="cartpage.html"><i class="fa-solid fa-bag-shopping"></i></a></li>
+             <li><a href="whishlist.html"><i class="fa-solid fa-heart"></i> </a></li>
+             <a href="#" id="close"><i class="bi bi-x-lg"></i></a>
+        </ul>
+      </div>
+      <div id="mobile">
+        <a href="cartpage.html"><i class="fa-solid fa-cart-shopping"></i></a>
+        <i id="bar" class="fas fa-outdent"></i>
+      </div>
+    </section>
+    
+    <div class="payment-main-card">  
+        <div class="payment-left">
+             <div class="sun-icon">☀️</div>
+            <h3 class="payment-text-option">Choose one of the payment options</h3>
+            
+            <div class="pay-option" onclick="selectMethod(this, 'https://pay.google.com/intl/en_us/about/')">
+                <img src="images/gpay logo.png" alt="GPay" >
+                <span>Google Pay</span>
+            </div>
+
+            <div class="pay-option" onclick="selectMethod(this, 'https://www.phonepe.com/')">
+                <img src="./images/phonepay logo.jpg" alt="PhonePe">
+                <span>PhonePe</span>
+            </div>
+
+            <div class="pay-option" onclick="selectMethod(this, 'https://lazypay.in/pay-later')">
+                <img src="images/paylater.jpg" alt="paylater">
+                <span>Pay later</span>
+            </div>
+
+            <div class="pay-option active" onclick="selectMethod(this, 'card-details.html')">
+                <div class="icon-group">💳 🏦</div>
+                <div class="option-info">
+                    <strong>Pay by card</strong>
+                    <p>VISA, MasterCard or Maestro</p>
+                </div>
+            </div>
+            <div class="pay-option " onclick="selectMethod(this, 'https://www.creditmantri.com/net-banking/')">
+                    <div class="icon-group">🏛️</div>
+                    <div class="option-info">
+                        <strong>Pay via internet banking</strong>
+                        <p>Do you have access to internet banking and want to pay immediately? Just select your bank.</p>
+                    </div>
+            </div>
+        </div>
+
+        <div class="payment-right">
+            <div class="summary-header">
+                <p>Total price</p>
+                <h1 id="total-price">₹0</h1>
+            </div>
+
+            <div id="item-list-mini" class="mini-cart-list"></div>
+
+            <div class="secure-info">
+                <i class="fa-solid fa-lock"></i>
+                <p>Your payment is 100% safe and secure. We use encryption to protect your data.</p>
+            </div>
+
+            <button class="payment-continue-btn" id="mobilepage-btn" onclick="redirectUser()" disabled>Continue ></button>
+        </div>
+        
+    </div>
+
+
+    <footer>
+    <div class="col">
+        <img  class="logo " src="./images/E.svg" alt="" width="100px" height="100px">
+        <h4>contact</h4>
+        <p><strong>Address:</strong> 562 Wellington Road, Street 32, San Francisco</p>
+        <p><strong>Phone:</strong> +01 2222 365/(+91) 01 23456789</p>
+        <p><strong>Hours:</strong> 10:00-18:00, Mon-Sat</p>
+
+        <div class="follow">
+        <h4 class="followus">follow us</h4>
+            <div class="icon">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fa fa-pinterest-p"></i> 
+                <i class="fab fa-youtube"></i> 
+            </div>
+        </div>
+    </div>
+    <div class="col">
+     <h4>About</h4>
+         <a href="#">About us</a>
+         <a href="#">Delivery Information</a>
+         <a href="#">Privacy Policy</a>
+         <a href="#">Terms & Conditions</a>
+         <a href="#">Contact Us</a>
+    </div>
+    <div class="col">
+      <h4>My Account</h4>
+         <a href="#">Sign In</a>
+         <a href="#">View Cart</a>
+         <a href="#">My Wishlist</a>
+         <a href="#">Track My Order</a>
+         <a href="#">Help</a>
+   </div>
+
+   <div class="col  install">
+    <h4>install Apps</h4>
+    <p>From app store or Google Play</p>
+     <div class="row">
+        <img src="./images/google store 2.png" alt="" width="220px " height="90px" onclick="window.location.href='https://play.google.com/store/apps'" style="cursor: pointer;">
+        <img src="./images/App-Store-Logo-PNG-Free-Image.png" alt="" width="220px" height="90px" onclick="window.location.href='https://www.apple.com/app-store/'" style="cursor: pointer;">
+    </div>
+    <p>Secured Payment Gateways</p>
+    <img src="./images/mastercard_2-removebg-preview (1).png" alt="" width="200px " height="60px" onclick="window.location.href='https://www.mastercard.com/gateway.html'" style="cursor: pointer;">
+   </div>
+   
+   <div class="copyright">
+    <p>@ 2025. Tech 2 er HTML CSS commerce Tarsalare</p>
+   </div>
+
+    </footer>
+    <script src="script2.js"></script>
+    <script src="mobile-banking.js"></script>
+</body>
+</html>

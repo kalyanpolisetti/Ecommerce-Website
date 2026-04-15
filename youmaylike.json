@@ -1,0 +1,142 @@
+[
+  {
+    "id":101,
+    "name": "Casual Printed Shirt",
+    "price": 1499,
+    "category":"shirt",
+    "mainImage": "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp",
+    "gallery": [
+     "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp",
+     "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp",
+     "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp",
+     "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp"
+    ],
+    "description": "Trendy casual printed shirt for everyday style.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Printed",
+      "fit": "Slim Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button Down",
+      "occasion":"casual"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+  {
+    "id":102,
+    "name": "Linen Shirt",
+    "price": 1799,
+    "category":"shirt",
+    "mainImage": "./images/linen shirt.1.webp",
+    "gallery": [
+      "./images/linen shirt.1.webp",
+      "./images/linen shirt.1.webp",
+      "./images/linen shirt.1.webp",
+      "./images/linen shirt.1.webp"
+    ],
+    "description": "Premium linen shirt for breathable comfort.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button",
+      "occasion":"formal"
+    },
+    "washCare": [
+      "Hand wash recommended",
+      "Do not bleach",
+      "Iron low heat"
+    ]
+  },
+   {
+    "id":103,
+    "name": " solid white sweatshirt",
+    "price": 1799,
+    "category":"shirt",
+    "mainImage": "/images/white sweatshirt.avif",
+    "gallery": [
+     "/images/white sweatshirt.avif",
+     "/images/white sweatshirt.avif",
+     "/images/white sweatshirt.avif",
+     "/images/white sweatshirt.avif"
+    ],
+    "description": "Premium linen shirt for breathable comfort.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button",
+      "occasion":"formal"
+    },
+    "washCare": [
+      "Hand wash recommended",
+      "Do not bleach",
+      "Iron low heat"
+    ]
+  },
+  {
+    "id":104,
+    "name": "Elvior sweatshirt black",
+    "price": 1799,
+    "category":"shirt",
+    "mainImage": "./images/Elvior sweatshirt.png",
+    "gallery": [
+     "./images/Elvior sweatshirt.png",
+     "./images/Elvior sweatshirt.png",
+     "./images/Elvior sweatshirt.png",
+     "./images/Elvior sweatshirt.png"
+    ],
+    "description": "Premium linen shirt for breathable comfort.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button",
+      "occasion":"formal"
+    },
+    "washCare": [
+      "Hand wash recommended",
+      "Do not bleach",
+      "Iron low heat"
+    ]
+  },
+  {
+    "id":105,
+    "name": "elvior blue sweat Shirt",
+    "price": 1799,
+    "category":"shirt",
+    "mainImage": "./images/elvior blue sweat.s.png",
+    "gallery": [
+     "./images/elvior blue sweat.s.png",
+     "./images/elvior blue sweat.s.png",
+     "./images/elvior blue sweat.s.png",
+     "./images/elvior blue sweat.s.png"
+    ],
+    "description": "Premium linen shirt for breathable comfort.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button",
+      "occasion":"formal"
+    },
+    "washCare": [
+      "Hand wash recommended",
+      "Do not bleach",
+      "Iron low heat"
+    ]
+  }
+]

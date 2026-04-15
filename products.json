@@ -1,0 +1,548 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Green & Yellow Checkered Slim Fit Shirt",
+    "price": 2499,
+    "mainImage": "./images/Men's Checkered Slim Fit Shirt.webp",
+    "gallery": [
+      "./images/Men's Checkered Slim Fit Shirt2.webp",
+      "./images/Men's Checkered Slim Fit Shirt3.webp",
+      "./images/Men's Checkered Slim Fit Shirt.webp",
+      "./images/Men's Checkered Slim Fit Shirt2.webp"
+      
+    ],
+    "description": "Stylish green and yellow checkered shirt perfect for casual wear.",
+    "details": {
+      "fabric": "100% Cotton",
+      "pattern": "Checkered",
+      "fit": "Slim Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button Down",
+      "occasion": "Casual, Daily Wear"
+    },
+    "washCare": [
+      "Turn garment inside out before washing",
+      "Machine wash cold",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Snitch Men's Beige Abstract Slim Fit Shirt",
+    "price": 2499,
+    "mainImage": "./images/Snitch Men's Beige Abstract Slim Fit Shirt Slim Fit.webp",
+    "gallery": [
+      "./images/Snitch Men's Beige Abstract Slim Fit Shirt Slim Fit2.webp",
+      "./images/Snitch Men's Beige Abstract Slim Fit Shirt Slim Fit3.webp",
+      "./images/Snitch Men's Beige Abstract Slim Fit Shirt Slim Fit.webp",
+      "./images/Snitch Men's Beige Abstract Slim Fit Shirt Slim Fit2.webp"
+      
+    ],
+    "description": "Modern abstract beige shirt for stylish outings.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Abstract",
+      "fit": "Slim Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button Down",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Iron low heat"
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Cotton Linen Stripes Nautical Shirt",
+    "price": 1999,
+    "mainImage": "./images/Cotton Linen Stripes Nautical Cotton Linen Shirts.webp",
+    "gallery": [
+      "./images/Cotton Linen Stripes Nautical Cotton Linen Shirts2.webp",
+      "./images/Cotton Linen Stripes Nautical Cotton Linen Shirts.webp",
+      "./images/Cotton Linen Stripes Nautical Cotton Linen Shirts2.webp",
+      "./images/Cotton Linen Stripes Nautical Cotton Linen Shirts.webp"
+    ],
+    "description": "Lightweight striped linen shirt for summer comfort.",
+    "details": {
+      "fabric": "Cotton Linen",
+      "pattern": "Striped",
+      "fit": "Regular Fit",
+      "sleeve": "Half Sleeve",
+      "collar": "Classic Collar",
+      "closure": "Button Down",
+      "occasion": "Casual, Beach Wear"
+    },
+    "washCare": [
+      "Wash separately",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "D Finish Men's Regular Fit Linen Cotton Shirt",
+    "price": 2499,
+    "mainImage": "./images/D Finish Men's Regular Fit Linen Cotton Shirt.webp",
+    "gallery": [
+      "./images/D Finish Men's Regular Fit Linen Cotton Shirt.webp",
+      "./images/D Finish Men's Regular Fit Linen Cotton Shirt2.webp",
+      "./images/D Finish Men's Regular Fit Linen Cotton Shirt3.webp",
+      "./images/D Finish Men's Regular Fit Linen Cotton Shirt.webp"
+    ],
+    "description": "Premium linen cotton shirt with regular fit.",
+    "details": {
+      "fabric": "Linen Cotton",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button Down",
+      "occasion": "Semi-Formal"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not tumble dry",
+      "Iron medium heat"
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "LIMEROAD Men's Floral Casual Shirt",
+    "price": 1999,
+    "mainImage": "./images/LIMEROAD Men's Floral Casual Shirt.webp",
+    "gallery": [
+      "./images/LIMEROAD Men's Floral Casual Shirt.webp",
+      "./images/LIMEROAD Men's Floral Casual Shirt2.webp",
+      "./images/LIMEROAD Men's Floral Casual Shirt3.webp",
+      "./images/LIMEROAD Men's Floral Casual Shirt.webp"
+    ],
+    "description": "Trendy floral shirt for casual outings.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Floral",
+      "fit": "Regular Fit",
+      "sleeve": "Half Sleeve",
+      "collar": "Camp Collar",
+      "closure": "Button Down",
+      "occasion": "Casual, Party"
+    },
+    "washCare": [
+      "Hand wash recommended",
+      "Do not bleach",
+      "Dry flat"
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Linen Club Men's Checked Contemporary Fit Shirt",
+    "price": 2599,
+    "mainImage": "./images/Linen Club Men's Checked Contemporary Fit Full Sleeve Casual Shirt.webp",
+    "gallery": [
+      "./images/Linen Club Men's Checked Contemporary Fit Full Sleeve Casual Shirt.webp",
+      "./images/Linen Club Men's Checked Contemporary Fit Full Sleeve Casual Shirt2.webp",
+      "./images/Linen Club Men's Checked Contemporary Fit Full Sleeve Casual Shirt3.webp",
+      "./images/Linen Club Men's Checked Contemporary Fit Full Sleeve Casual Shirt.webp"
+    ],
+    "description": "Elegant checked shirt with contemporary fit.",
+    "details": {
+      "fabric": "Cotton Linen",
+      "pattern": "Checked",
+      "fit": "Contemporary Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button Down",
+      "occasion": "Formal, Casual"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Iron low heat",
+      "Do not bleach"
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Lymio Men's Regular Fit Shirt",
+    "price": 2499,
+    "mainImage": "./images/Lymio Shirt for Men Regular Fit Shirt for Men.webp",
+    "gallery": [
+      "./images/Lymio Shirt for Men Regular Fit Shirt for Men.webp",
+      "./images/Lymio Shirt for Men Regular Fit Shirt for Men2.webp",
+      "./images/Lymio Shirt for Men Regular Fit Shirt for Men3.webp",
+      "./images/Lymio Shirt for Men Regular Fit Shirt for Men.webp"
+    ],
+    "description": "Classic regular fit shirt for everyday wear.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Classic Collar",
+      "closure": "Button Down",
+      "occasion": "Daily Wear"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "Men Regular Fit Solid Beige Cotton Linen Shirt",
+    "price": 1999,
+    "mainImage": "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp",
+    "gallery": [
+      "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt2.webp",
+      "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt3.webp",
+      "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt.webp",
+      "./images/Men's Regular Fit Solid Casual Linen Cotton Shirt2.webp"
+    ],
+    "description": "Minimal beige linen shirt with premium feel.",
+    "details": {
+      "fabric": "Cotton Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button Down",
+      "occasion": "Casual, Office Wear"
+    },
+    "washCare": [
+      "Wash separately",
+      "Iron medium heat",
+      "Do not bleach"
+    ]
+  },
+   {
+    "id": 9,
+    "name": "Men Regular Fit Solid Beige Cotton Linen Shirt",
+    "price": 1999,
+    "mainImage": "./images/Men Regular Fit Solid Blue Cotton Linen Shirts  blue.webp",
+    "gallery": [
+      "./images/Men Regular Fit Solid Blue Cotton Linen Shirts  blue2.webp",
+      "./images/Men Regular Fit Solid Blue Cotton Linen Shirts  blue3.webp",
+      "./images/Men Regular Fit Solid Blue Cotton Linen Shirts  blue.webp",
+      "./images/Men Regular Fit Solid Blue Cotton Linen Shirts  blue2.webp"
+      
+    ],
+    "description": "Comfortable beige linen shirt perfect for summer wear.",
+    "details": {
+      "fabric": "Cotton Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Men Regular Fit Solid Blue Cotton Linen Shirt",
+    "price": 1899,
+    "mainImage": "./images/Men Regular Fit Solid Beige Cotton Linen Shirts 3.webp",
+    "gallery": [
+      "./images/Men Regular Fit Solid Beige Cotton Linen Shirts 3.webp",
+      "./images/Men Regular Fit Solid Beige Cotton Linen Shirts (2.webp",
+      "./images/Men Regular Fit Solid Beige Cotton Linen Shirts 3.webp",
+      "./images/Men Regular Fit Solid Beige Cotton Linen Shirts (2.webp"
+
+
+    ],
+    "description": "Stylish blue linen shirt for casual and office wear.",
+    "details": {
+      "fabric": "Cotton Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 11,
+    "name": "Men Olive Checked Casual Shirt",
+    "price": 1799,
+    "mainImage": "./images/Men's Olive Checked Casual Full Sleeve Collar Shirt.webp",
+    "gallery": [
+      "./images/Men's Olive Checked Casual Full Sleeve Collar Shirt.webp",
+      "./images/Men's Olive Checked Casual Full Sleeve Collar Shirt2.webp",
+      "./images/Men's Olive Checked Casual Full Sleeve Collar Shirt3.webp",
+      "./images/Men's Olive Checked Casual Full Sleeve Collar Shirt.webp"
+    ],
+    "description": "Trendy olive checked shirt for daily wear.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Checked",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Casual Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 12,
+    "name": "Men Snitch Dark Green Checks Linen Shirt",
+    "price": 2099,
+    "mainImage": "./images/Men Snitch Dark Green Checks Linen Shirt.webp",
+    "gallery": [
+      "./images/Men Snitch Dark Green Checks Linen Shirt.webp",
+      "./images/Men Snitch Dark Green Checks Linen Shirt2.webp",
+      "./images/Men Snitch Dark Green Checks Linen Shirt3.webp",
+      "./images/Men Snitch Dark Green Checks Linen Shirt.webp"
+    ],
+    "description": "Premium dark green checked linen shirt.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Checked",
+      "fit": "Slim Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Hand wash recommended",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 13,
+    "name": "Men Printed Regular Fit Spread Collar Shirt",
+    "price": 1599,
+    "mainImage": "./images/MUTUAL Men's Printed Regular Fit Spread Collar Shirt.webp",
+    "gallery": [
+      "./images/MUTUAL Men's Printed Regular Fit Spread Collar Shirt.webp",
+      "./images/MUTUAL Men's Printed Regular Fit Spread Collar Shirt2.webp",
+      "./images/MUTUAL Men's Printed Regular Fit Spread Collar Shirt.webp",
+      "./images/MUTUAL Men's Printed Regular Fit Spread Collar Shirt1.webp"
+    ],
+    "description": "Printed casual shirt with modern styling.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Printed",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+   {
+    "id": 14,
+    "name": "Resort Summer Linen Shirt",
+    "price": 1499,
+    "mainImage": "./images/resort summer shirt1.jpg",
+    "gallery": [
+      "./images/resort summer shirt1.jpg",
+      "./images/resort summer shirt2.jpg",
+      "./images/resort summer shirt4.jpg",
+      "./images/resort summer shirt5.jpg"
+    ],
+    "description": "Lightweight summer linen shirt perfect for beach and casual wear.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "sleeve": "Half Sleeve",
+      "collar": "Casual Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Striped Linen Shirt",
+    "price": 1699,
+    "mainImage": "./images/Striped Linen Shirt.webp",
+    "gallery": [
+      "./images/Striped Linen Shirt.webp",
+      "./images/Striped Linen Shirt2.webp",
+      "./images/Striped Linen Shirt3.webp",
+      "./images/Striped Linen Shirt.webp"
+    ],
+    "description": "Stylish striped linen shirt for casual outings.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Striped",
+      "fit": "Regular Fit",
+      "sleeve": "Full Sleeve",
+      "collar": "Spread Collar",
+      "closure": "Button"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 16,
+    "name": "The Roadster Lifestyle Co Men's Relaxed Fit Linen Trousers",
+    "price": 2199,
+    "mainImage": "./images/The Roadster Lifestyle Co Men's Relaxed Fit Linen Trousers.webp",
+    "gallery": [
+      "./images/The Roadster Lifestyle Co Men's Relaxed Fit Linen Trousers.webp",
+      "./images/The Roadster Lifestyle Co Men's Relaxed Fit Linen Trousers2.webp",
+      "./images/The Roadster Lifestyle Co Men's Relaxed Fit Linen Trousers3.webp",
+      "./images/The Roadster Lifestyle Co Men's Relaxed Fit Linen Trousers.webp"
+    ],
+    "description": "Comfortable relaxed fit linen trousers for everyday style.",
+    "details": {
+      "fabric": "Linen",
+      "pattern": "Solid",
+      "fit": "Relaxed Fit",
+      "closure": "Elastic Waist",
+      "Occasion": "Casual"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 17,
+    "name": "FABRIPPLE Men's Cargo Trousers",
+    "price": 1999,
+    "mainImage": "./images/FABRIPPLE Men's Cargos Trousers.webp",
+    "gallery": [
+      "./images/FABRIPPLE Men's Cargos Trousers.webp",
+      "./images/FABRIPPLE Men's Cargos Trousers2.webp",
+      "./images/FABRIPPLE Men's Cargos Trousers3.webp",
+      "./images/FABRIPPLE Men's Cargos Trousers.webp"
+    ],
+    "description": "Stylish cargo trousers with multiple pockets for utility and comfort.",
+    "details": {
+      "fabric": "Cotton",
+      "pattern": "Solid",
+      "fit": "Regular Fit",
+      "style": "Cargo",
+      "closure": "Button & Zip"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 18,
+    "name": "Indian Terrain Men's Brooklyn Slim Fit Trousers",
+    "price": 2499,
+    "mainImage": "./images/Indian Terrain Men's Brooklyn Slim Fit Trousers.webp",
+    "gallery": [
+      "./images/Indian Terrain Men's Brooklyn Slim Fit Trousers.webp",
+      "./images/Indian Terrain Men's Brooklyn Slim Fit Trousers2.webp",
+      "./images/Indian Terrain Men's Brooklyn Slim Fit Trousers3.webp",
+      "./images/Indian Terrain Men's Brooklyn Slim Fit Trousers.webp"
+    ],
+    "description": "Premium slim fit trousers for a modern look.",
+    "details": {
+      "fabric": "Cotton Blend",
+      "pattern": "Solid",
+      "fit": "Slim Fit",
+      "closure": "Zip",
+      "occasion": "Formal & Casual"
+    },
+    "washCare": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 19,
+    "name": "NEONOMAD Men's Mid Rise Relaxed Jeans",
+    "price": 2299,
+    "mainImage": "./images/NEONOMAD Men's Mid Rise Relaxed Jeans.webp",
+    "gallery": [
+      "./images/NEONOMAD Men's Mid Rise Relaxed Jeans.webp",
+      "./images/NEONOMAD Men's Mid Rise Relaxed Jeans2.webp",
+      "./images/NEONOMAD Men's Mid Rise Relaxed Jeans3.webp",
+      "./images/NEONOMAD Men's Mid Rise Relaxed Jeans.webp"
+    ],
+    "description": "Comfortable relaxed jeans for everyday wear.",
+    "details": {
+      "fabric": "Denim",
+      "fit": "Relaxed Fit",
+      "rise": "Mid Rise",
+      "closure": "Zip",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Wash separately",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  },
+
+  {
+    "id": 20,
+    "name": "VAIREET Men's Mid-Rise Straight Jeans",
+    "price": 2399,
+    "mainImage": "./images/VAIREET Men's Mid-Rise Straight Jeans.webp",
+    "gallery": [
+      "./images/VAIREET Men's Mid-Rise Straight Jeans.webp",
+      "./images/VAIREET Men's Mid-Rise Straight Jeans2.webp",
+      "./images/VAIREET Men's Mid-Rise Straight Jeans3.webp",
+      "./images/VAIREET Men's Mid-Rise Straight Jeans.webp"
+      
+    ],
+    "description": "Premium straight fit jeans with modern comfort.",
+    "details": {
+      "fabric": "Denim",
+      "fit": "Straight Fit",
+      "rise": "Mid Rise",
+      "closure": "Zip",
+      "occasion": "Casual"
+    },
+    "washCare": [
+      "Machine wash",
+      "Do not bleach",
+      "Dry in shade"
+    ]
+  }
+]

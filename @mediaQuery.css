@@ -1,0 +1,999 @@
+@media(max-width:799px){
+    #navbar{
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      justify-content:flex-start;
+      align-items:flex-start;
+      position:fixed;
+      top: 0;
+      right:-300px;
+      width: 300px;
+      height: 100vh;
+      background-color: #ffffff;
+      box-shadow: 0 60px 40px rgba(0, 0, 0, 0.1);
+      padding: 80px 0px 0px  40px;
+      transition: 0.3s;
+
+}
+#navbar.active{
+    right:0px;
+}
+#navbar li{
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+#mobile{
+    display:flex;
+    align-items: center;
+}
+#mobile i{
+    color: black;
+    font-size:30px;
+    padding-left: 40px;
+}
+#close{
+    display: initial;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-size:37px ;
+    color: black;
+    font-weight: lighter;
+}
+#lg-bag{
+    display: none;
+}
+ #hero {
+    height: 70vh;
+    padding: 0px 4vw;
+   background-position: top 30% right 80%;
+}
+.category-grid {
+    margin: 80px 15px 70px 15px;
+}
+#coll-page {
+    width: 100%;
+    min-height: 50vh;
+    margin: 80px 0px 50px 0px;
+}
+.home-hero {
+    height: 30vh;
+    background-position: top;
+    margin: 40px 0px 50px 0px;
+    box-sizing: border-box;
+}
+.home-hero-content h1 {
+    font-size: 50px;
+    margin-top: 50px;
+}
+.home-hero-content {
+    position: relative;
+    color: white;
+    max-width: 600px;
+}
+.home-hero-content h1 {
+    font-size: 40px;
+}
+.home-hero-content p {
+    padding-left: 60px;
+    opacity: 0.9;
+}
+.home-hero-content button {
+    left: 134px;
+}
+#sm-banner .banner-box {
+    width: 100%;
+    height: 250px;
+    padding: 30px;
+}
+#sm-banner {
+    padding: 40px 5px 0px 5px;
+}
+#sm-banner2 .banner-box3 {
+    width: 100%;
+    height: 20vh;
+}
+.banner-box3 h3 {
+    font-size: clamp(7rem,13vw,10rem);
+    color: white;
+    opacity: 0.5;
+    /* padding-left: 60px; */
+}
+#newsletter h5 {
+    font-size:15px;
+    color: rgb(119, 116, 116);
+    font-weight: 400;
+}
+#newsletter input {
+    flex: 1;
+    height: 3.125rem;
+    padding: 0 1.15em;
+    width: 100%;
+    font-size:0.8em;
+    /* border-radius: 4px 0 0 4px; */
+    outline: none;
+}
+#newsletter .news-text {
+    width: 100%;
+}
+#newsletter .form {
+    display: flex;
+    width:100%;
+    max-width:100%;
+}
+.form .news-btn2 {
+    width: 120px;
+    height:50px;
+}
+}
+
+@media (max-width:477px) {
+    #mobile i {
+    font-size:20px;
+    padding-left: 20px;
+}
+ #navbar{
+      right:-250px;
+      width: 250px;
+      z-index:9999;
+}
+#close {
+    font-size:23px;
+}
+#hero {
+    height:20vh;
+    padding: 0px 4vw;
+    background-position: top 30% right 30%;
+}
+#hero h4 {
+    font-size: 30px;
+    padding-bottom: 15px;
+    color: white;
+}
+.house-col {
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+}
+.category-grid {
+    margin: 44px 5px 50px 5px;
+}
+.category-grid {
+    margin: 100px 5px 50px 5px;
+}
+#coll-page {
+    min-height: 40vh;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.coll-page-des {
+    padding: 30px 20px; 
+}
+.category-card {
+    width: 100%;
+    height: 20vh;
+    aspect-ratio: 3/4;
+    overflow: hidden;
+    display: block;
+}
+.newly-arrive {
+   display: none;
+}
+.coll-2026 {
+    font-size: 30px;
+}
+.item-list .ol {
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:center;
+    font-size: clamp(12px, 2vw, 15px);
+    gap: clamp(10px, 3vw, 30px);
+}
+.item-list .ol .item {
+    border: 0.5px solid rgba(160, 159, 159, 0.307);
+    padding: clamp(10px, 2.5vw, 20px);
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+#product1 .pro-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    padding: 15px;
+    gap: 20px;
+}
+.hero-content {
+    position: relative;
+    color: white;
+    max-width: 300px;
+}
+.news-text {
+    width: 100%;
+}
+#newsletter .form {
+    display: flex;
+    width:100%;
+    max-width: 400px;
+}
+.banner-box3 h3 {
+    font-size: clamp(3rem,6vw,4rem);
+    color: white;
+    opacity: 0.5;
+    /* padding-left: 60px; */
+}
+#sm-banner2 .banner-box3 {
+    width: 100%;
+    height: 10vh;
+    background-size: cover;
+    background-position: center center;
+}
+.hero-content h1 {
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+.hero-content p {
+    font-size: 20px;
+    margin-bottom: 25px;
+    padding-left: 1.5em;
+    opacity: 0.9;
+}
+.hero-content button {
+   display: none;
+}
+.banner-box3 h2 {
+    padding-left:0px;
+}
+.boot-btn {
+    margin-left: 0px;
+    font-weight: 300;
+}
+footer p {
+    font-size: 13px;
+    margin: 0px 0px 8px 0px;
+}
+#header {
+    padding: 0px 4vw;
+}
+.home-hero {
+    height: 50vh;
+    box-sizing: border-box;
+}
+.home-hero-content {
+    position: relative;
+    color: white;
+    max-width: 300px;
+}
+.home-hero-content h1 {
+    font-size: 20px;
+    padding-right: 30px;
+}
+.home-hero-content p {
+    padding-left: 10px;
+    opacity: 0.9;
+    display: none;
+}
+.home-hero-content button {
+    left: 54px;
+}
+}
+  /* shop page */
+@media (max-width:799px){
+    #product1 .pro-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
+    justify-items: center;
+    padding: 15px;
+    gap: 20px;
+}
+.boots{
+   margin-top: 170px;
+}
+#shop-page-header {
+    width: 100%;
+    height: 40vh;
+    margin-top:0px;
+    margin-bottom: 30px;
+}
+#product1 .pro {
+    flex: 1 1 250px;
+    max-width: 21%;
+    min-width: 275px;
+    border: 1px solid rgba(0, 0, 0, 0.402);
+    position: relative;
+    box-sizing: border-box;
+}
+}
+@media (max-width:477px){
+
+    #shop-page-header {
+    width: 100%;
+    height: 26vh;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-top: 120px;
+}
+#newsletter .form {
+    height: 10px;
+    margin-top: 20px;
+}
+}
+/* single-pro -page query */
+
+@media (max-width:799px){
+    #pro-details {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+#pro-details .single-pro-image {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+#pro-details #single-pro-details {
+    width: 100%;
+    padding: 20px;
+}
+.single-pro-desc ul {
+    list-style: none;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.pro-summary {
+    font-size: 15px;
+    padding-bottom: 30px;
+    font-weight: 200;
+    line-height: 20px;
+}
+#pro-details #single-pro-details input {
+    width: 8%;
+    height: 5vh;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    margin-left:10px;
+    cursor: pointer;
+    max-width: 150px;
+}
+}
+@media (max-width:477px){
+    #pro-details #single-pro-details input {
+    width:10%;
+    height: 4vh;
+    padding-left: 10px;
+    margin: 10px;
+    cursor: pointer;
+    max-width: 150px;
+    margin-top: 0px;
+}
+#pro-details{
+    margin-top: 100px;
+}
+.cart-btn {
+    border: 1px solid black;
+    margin-left: 10px;
+}
+.wishlist-btn-cart {
+    margin-left:70px;
+    width: 60%;
+    margin-bottom:10px;
+    padding: 10px 0px;
+}
+.cart-btn {
+    margin-left: 10px;
+    width: 60%;
+    padding: 10px 0px;
+}
+.sizes-con .size {
+    width: 13%;
+    height: 40px;
+}
+}
+@media (min-width:768px) and (max-width:1024px){
+    #pro-details {
+    display: flex;
+    flex-direction: column;
+    margin-top: 155px;
+}
+#pro-details .single-pro-image {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+}
+#pro-details #single-pro-details {
+    width: 100%;
+    padding:50px;
+}
+.single-pro-desc ul {
+    list-style: none;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+#pro-details #single-pro-details input {
+    width:10%;
+    height:3vh;
+    padding-left:5px;
+    margin: 20px;
+    cursor: pointer;
+    max-width: 160px;
+}
+.pro-summary {
+    font-size: 15px;
+    padding-bottom: 20px;
+    font-weight: 200;
+    line-height: 20px;
+}
+#newsletter input {
+    width: 100%;
+    font-size: 1em;
+}
+#newsletter .form {
+    display: flex;
+    width:80%;
+    max-width: 400px;
+}
+#newsletter h5 {
+    font-size: 17px;
+    color: rgb(119, 116, 116);
+    font-weight: 400;
+}
+
+}
+/* about page*/
+@media (max-width:799px)
+{
+    #about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+#about-content img {
+    width: 100%;
+    margin-bottom: 10px;
+    height: auto;
+}
+#aboutpage-header {
+    height:40vh;
+    width: 100%;
+}
+#about-content ul {
+  list-style: none;
+}
+.form .news-btn2 {
+    height:48px;
+}
+}
+@media (max-width:477px){
+    #about-content ul {
+    list-style: none;
+    display: none;
+}
+#about-content p {
+    margin-bottom: 10px;
+}
+#about-app h1 {
+    font-size: 30px;
+}
+#about-app .video img {
+    width: 60%;
+    height: 40%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px black;
+}
+#about-content div {
+    padding-left: 10px;
+}
+.form .news-btn2 {
+    width: 120px;
+    height:48px;
+}
+#newsletter h3 {
+    font-size: 20px;
+    font-weight: 400;
+}
+}
+@media (max-width:900px){
+    #about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#about-content img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+#about-content p {
+    font-size: 30px;
+    line-height: 30px;
+}
+#aboutpage-header {
+    height: 40vh;
+    width: 100%;
+}
+#newsletter .news-text {
+    width: 100%;
+}
+}
+@media(max-width:799px){
+    .contact-container {
+    display: flex;
+    gap: 30px;
+}
+.con-hero {
+    height: 40vh;
+}
+.con-overlay {
+    width: 33%;
+}
+#about-content p {
+    font-size: 20px;
+    line-height: 30px;
+}
+}
+/* contact page query*/
+
+@media (max-width:477px){
+    .contact-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+.contact-form {
+    flex: 2;
+    background: #f5f5f5;
+    padding: 10px;
+    width: 100%;
+    margin-top: 30px;
+}
+.contact-info {
+    flex: 1;
+    margin-top: 30px;
+    width: 100%;
+}
+.con-overlay {
+    width:50%;
+}
+#newsletter {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 10px;
+    gap: 20px;
+}
+}
+@media (max-width:900px){
+    .contact-container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.con-overlay {
+    width:40%;
+}
+}
+
+/* cart page query */
+
+@media(max-width:799px){
+    .cart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0px;
+    margin-top: 170px;
+}
+.cart {
+  width: 100%;
+  margin-top: 0px;
+}
+.cart-summary {
+ width: 100%;
+}
+}
+@media(max-width:477px){
+    .cart {
+    max-height: 600px;
+    overflow-y: auto;
+}
+.cart-container {
+    margin-top: 100px;
+}
+}
+
+/* place order page */
+@media (max-width:799px){
+    .checkout-page-container {
+   margin: 0px;
+   padding: 10px;
+   width: 80%;
+   width: 100%;
+   margin-top: 180px;
+}
+.checkout-content {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    /* margin-top: 30px; */
+    margin-bottom: 40px;
+    width: 100%;
+}
+}
+@media(max-width:477px){
+   .checkout-page-container {
+   margin: 130px 0px 0px 0px;
+}
+.cart-details h3 {
+    font-size:13px;
+}
+.cart h2{
+    font-size: 20px;
+}
+}
+
+/* mobile-banking query*/
+
+@media(max-width:799px){
+    .payment-main-card {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
+}
+.payment-left {
+    /* flex: 1.2; */
+    margin: 0px;
+    width: 80%;
+}
+.payment-right {
+   margin: 0px;
+   width: 60%;
+   height:60vh;
+}
+#item-list-mini {
+    height: 30%;
+    max-height: 300px;
+    overflow-y: auto;
+}
+}
+
+@media(max-width:477px){
+    .payment-main-card {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0px;
+}
+.payment-left {
+    /* flex: 1.2; */
+    width: 90%;
+}
+.payment-right {
+    width:80%;
+    height: auto;
+}
+.payment-continue-btn {
+    width: 70%;
+}
+}
+
+/* card -details page querys*/
+
+@media(max-width:799px){
+    .card-page-container {
+    width: 80%;
+}
+.card-page-main-container {
+   padding: 0px 20px;
+   height: auto;
+   padding: 50px 0px;
+   margin-top: 180px;
+}
+}
+@media(max-width:477px){
+    .card-page-container {
+    width: 95%;
+    padding: 20px;
+}
+.pay-icon {
+    padding: 0px;
+    margin-bottom: 10px;
+}
+.pay-icon img {
+    height: 20px;
+}
+.quick-pay-header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: content;
+   gap: 10px;
+}
+}
+
+/* sucess page query */
+
+@media(max-width:799px){
+    .order-sucess-container {
+    width: 100%;
+   height: auto;
+   padding: 50px 0px;
+   margin-top: 180px;
+}
+.success-container {
+    width: 50%;
+    height: 70vh;
+    max-width: 350px;
+}
+footer{
+    display: none;
+}
+.amount-box {
+    height: 20%;
+}
+.amount-box span {
+    display: block;
+    font-size: 17px;
+    color: #b2bec3;
+}
+.amount-box strong {
+    font-size: 30px;
+    color: #2ecc71;
+}
+}
+@media(max-width:477px){
+.success-container {
+    width: 90%;
+    height:auto;
+    max-width:400px;
+    margin: 0px;
+    border-radius:40px;
+}
+footer{
+    display: none;
+}
+.order-sucess-container {
+    width: 100%;
+    height:auto;
+    padding: 30px 0px 10px 0px ;
+}
+.bank-logos img{
+    width: 100px;
+    height: 90px;
+}
+}
+/* wishlist page query*/
+@media(max-width:799px){
+    #wishlist-container {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 0px;
+}
+#wishlist-container .pro {
+    width: 260px;
+    height: 580px;
+}
+#page-header h2 {
+    margin-top: 180px;
+}
+}
+@media(max-width:477px){
+    #page-header p {
+    font-size: 16px;
+}
+}
+
+/* log in page query*/
+
+/* Tablet Isolation: Targets iPad Mini, Air, Pro, and Surface Pro */
+@media (max-width: 799px) {
+    
+    /* 1. Show the Hamburger Icon */
+    #login-mobile {
+        display: block !important;
+        position: absolute;
+        top: 30px;
+        right: 4vw;
+        z-index: 1001;
+    }
+
+    #bar1 {
+        font-size: 28px;
+        cursor: pointer;
+        color: #333;
+        margin: 20px 30px 0px 0px ;
+    }
+    .login-navbar {
+    padding: 30px 10% 0px 20px ;
+}
+
+    /* 2. Transform the Nav-Links into a Side Drawer */
+    .nav-links {
+        display: flex ;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: fixed;
+        top: 0;
+        right: -300px; /* Initially hidden off-screen */
+        width: 300px;
+        height: 100vh;
+        background-color: #ffffff;
+        box-shadow: -10px 0 20px rgba(0,0,0,0.2);
+        padding: 100px 0 0 40px;
+        transition: 0.4s ease;
+        z-index:99999;
+    }
+
+    /* 3. The 'Active' State (When menu is open) */
+    .nav-links.active {
+        right: 0;
+    }
+
+    .nav-links li {
+        margin-bottom:20px;
+        list-style: none;
+        font-size: 20px;
+    }
+
+    /* 4. Style the 'X' Close Button inside the menu */
+    #login-close {
+        display: block !important;
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        color: #333;
+        font-size: 32px;
+        text-decoration: none;
+        cursor: pointer;
+        z-index: 100000;
+    }
+    .login-box {
+    margin-top: 200px;
+    width: 400px;
+    text-align: center;
+    z-index: -1;
+}
+.extra-options {
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 5px;
+}
+.footer-links a{
+   background-color: rgba(0, 0, 0, 0.427);
+}
+.login-navbar .logo img {
+   width: 100px;
+}
+.bottom-bar {
+    bottom: 70px;
+    width: 100%;
+    padding: 10px;
+    font-size:22px;
+    background-color: rgba(0, 0, 0, 0.238);
+}
+}
+
+/* Hide these on Desktop (Screens wider than 1100px) */
+@media screen and (min-width: 1101px) {
+    #login-mobile, #login-close {
+        display: none;
+    }
+}
+
+@media (min-width:800px) and (max-width:1100px)
+{
+    #login-mobile {
+        display: block !important;
+        position: absolute;
+        top: 30px;
+        right: 4vw;
+        z-index: 1001;
+    }
+
+    #bar1 {
+        font-size:40px;
+        cursor: pointer;
+        color: #333;
+        margin: 20px 30px 0px 0px ;
+    }
+    .login-navbar {
+    padding: 30px 10% 0px 20px ;
+}
+
+    /* 2. Transform the Nav-Links into a Side Drawer */
+    .nav-links {
+        display: flex ;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: fixed;
+        top: 0;
+        right: -300px; /* Initially hidden off-screen */
+        width: 300px;
+        height: 100vh;
+        background-color: #ffffff;
+        box-shadow: -10px 0 20px rgba(0,0,0,0.2);
+        padding: 100px 0 0 40px;
+        transition: 0.4s ease;
+        z-index:99999;
+    }
+
+    /* 3. The 'Active' State (When menu is open) */
+    .nav-links.active {
+        right: 0;
+    }
+
+    .nav-links li {
+        margin-bottom:25px;
+        list-style: none;
+        font-size: 30px;
+    }
+
+    /* 4. Style the 'X' Close Button inside the menu */
+    #login-close {
+        display: block !important;
+        position: absolute;
+        top: 30px;
+        left: 30px;
+        color: #333;
+        font-size: 32px;
+        text-decoration: none;
+        cursor: pointer;
+        z-index: 100000;
+    }
+    .login-box {
+    margin-top: 320px;
+    width: 600px;
+    text-align: center;
+    z-index: -1;
+}
+.login-navbar .logo img {
+  width: 200px;
+}
+.bottom-bar {
+    bottom: 70px;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.464);
+}
+}
+
+@media (max-width:499px)
+{
+    .login-box {
+    margin-top: 200px;
+    width: 300px;
+    text-align: center;
+}
+.bottom-bar {
+    /* bottom: 20px;
+    font-size:14px; */
+    display: none;
+}
+.login-navbar .logo img {
+   display: none;
+}
+#bar1 {
+    font-size:20px;
+    margin-right: 10px;
+}
+ .nav-links {
+        right: -200px; /* Initially hidden off-screen */
+        width: 200px;
+    }
+.nav-links li {
+    font-size: 15px;
+}
+#login-close {
+   font-size: 20px;
+}
+}
