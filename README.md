@@ -88,7 +88,7 @@ git clone https://github.com/kalyanpolisetti/Ecommerce-Website.git
 cd Ecommerce-Website
 ```
 
-👉 Open `home-page.html` in browser
+👉 Open `index.html` in browser
 
 ---
 
