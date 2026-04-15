@@ -377,7 +377,7 @@ document.getElementById('getStartedBtn').addEventListener('click', function() {
 
     // 2. Redirect to home page after clicking OK
     // Change 'home.html' to your actual home page file
-    window.location.href = "home-page.html"; 
+    window.location.href = "index.html"; 
 });
 
 // log in page logo movements java script code //
