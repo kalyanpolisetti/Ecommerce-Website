@@ -370,6 +370,10 @@ footer p {
     max-width: 150px;
     margin-top: 0px;
 }
+#pro-details .single-pro-image {
+   
+    margin: 20px 0px 0px 0px;
+}    
 #pro-details{
     margin-top: 100px;
 }
